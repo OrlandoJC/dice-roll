@@ -1,0 +1,10 @@
+i {
+    font-size: 16rem;
+    color:rgb(100, 73, 218);
+    padding: 30px;
+}
+
+.roll {
+    animation: wobble;
+    animation-duration: 1s;
+}
